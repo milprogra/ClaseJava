@@ -9,7 +9,7 @@
 	 - Iniciar variable y asignacion
 	 - Strings y metodos
 	 - Operadores aritmeticos
- -**Clase2**
+ - **Clase2**
  	- Sentencia If/if-else/if-else-if
 	- Ciclo For
 	- Ciclo While
