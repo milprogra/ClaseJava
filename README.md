@@ -9,4 +9,10 @@
 	 - Iniciar variable y asignacion
 	 - Strings y metodos
 	 - Operadores aritmeticos
+ - **Clase2**
+ 	- Sentencia If/if-else/if-else-if
+	- Ciclo For
+	- Ciclo While
+	- Ciclo do-While
+	- Scanner
 
