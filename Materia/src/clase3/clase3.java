@@ -95,12 +95,11 @@ public class clase3 {
             }
         }
         
-        for(int i=0;i<matriz1.length;i++){
-            String linea= "";
-            for(int x=0;x<matriz1[i].length;x++){
-                linea +="["+matriz1[i][x]+"]";
+        //metodo for each para recorrer una matriz
+        for(char[] matri: matriz1){
+            for(char arr: matri){
+                System.out.println(arr);
             }
-            System.out.println(linea);
         }
     }
     
