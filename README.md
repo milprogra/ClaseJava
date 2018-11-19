@@ -9,10 +9,26 @@
 	 - Iniciar variable y asignacion
 	 - Strings y metodos
 	 - Operadores aritmeticos
- - **Clase2**
+ - **Clase 2**
  	- Sentencia If/if-else/if-else-if
 	- Ciclo For
 	- Ciclo While
 	- Ciclo do-While
 	- Scanner
-
+- **Clase 3**
+  - Arreglos
+  - Matrices
+  - declarar, instanciar y acceder
+  - for y for each para recorrer
+- **Clase 4**
+  - Funciones
+  - Procedimientos
+  - Static
+  - Crear instanciar
+- **Clase 5**
+  - Programacion Orientada a Objeto
+  - atributos
+  - constructor
+  - Visibilidad
+  - Getters y Setters
+  - Crear e instanciar Objeto
