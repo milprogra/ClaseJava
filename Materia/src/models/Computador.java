@@ -18,9 +18,13 @@ public class Computador {
     public int cantMemoria;
     public int disco;
     public double pantalla;
+    private String tarjetaVideo;
     
     public Computador(){
         
+    }
+    public Computador(int id){
+        this.id = id;
     }
     public Computador(int id, String marca, String modelo){
         this.id = id;
@@ -41,6 +45,14 @@ public class Computador {
         this.cantMemoria = cantMemoria;
         this.disco = disco;
         this.pantalla = pantalla;
+    }
+
+    public String getTarjetaVideo() {
+        return tarjetaVideo;
+    }
+
+    public void setTarjetaVideo(String tarjetaVideo) {
+        this.tarjetaVideo = tarjetaVideo;
     }
     
 }

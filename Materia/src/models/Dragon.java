@@ -17,7 +17,10 @@ public class Dragon {
     private int edad;
     private String color;
     private String sexo;
-
+   
+    public Dragon(String nombre){
+        this.nombre= nombre;
+    }
     public Dragon(String nombre, String raza, double tamaño, int edad, String color, String sexo) {
         this.nombre = nombre;
         this.raza = raza;
