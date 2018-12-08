@@ -32,3 +32,12 @@
   - Visibilidad
   - Getters y Setters
   - Crear e instanciar Objeto
+- **Clase 6**
+  - clases
+  - herencia entre clases
+  - import e instanciar
+  - Interfaces
+- **Clase 7**
+  - Array de objetos
+  - ArrayList de datos primitivos
+  - ArrayList de Objetos
